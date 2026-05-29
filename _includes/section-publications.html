@@ -1,0 +1,13 @@
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+  <p class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
+{% endif %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% unless site.publications.size > 0 %}
+  <p><em>Publications will be listed here.</em></p>
+{% endunless %}

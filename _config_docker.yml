@@ -1,1 +1,3 @@
+# Local dev overrides (merged with _config.yml in Docker / dev container)
 url: ""
+baseurl: ""

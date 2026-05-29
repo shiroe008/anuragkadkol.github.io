@@ -34,6 +34,19 @@
   }
 }
 
+.page--home .page__content > h2 {
+  scroll-margin-top: 5rem;
+  margin-top: 2.5em;
+  padding-top: 0.5em;
+  border-top: 1px solid var(--global-border-color, #e0e0e0);
+
+  &:first-of-type {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
