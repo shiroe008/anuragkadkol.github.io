@@ -7,5 +7,5 @@ authors: "Rupali Bhati*, <strong>Anurag Kadkol</strong>*, Andrea Baisero, Christ
 date: 2026-01-01
 venue: "RLC 2026"
 title_link: true
-link: "/files/dec_adqn.pdf"
+link: "/anuragkadkol.github.io/files/dec_adqn.pdf"
 ---

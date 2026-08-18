@@ -7,5 +7,5 @@ authors: "<strong>Anurag Kadkol</strong>"
 date: 2026-08-19
 venue: "Master's Thesis, Northeastern University"
 title_link: true
-link: "/files/thesis.pdf"
+link: "/anuragkadkol.github.io/files/thesis.pdf"
 ---
